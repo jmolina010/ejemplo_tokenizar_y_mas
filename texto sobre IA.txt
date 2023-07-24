@@ -1,0 +1,110 @@
+La inteligencia artificial (IA), en el contexto de las ciencias de la computación, es una disciplina y un conjunto de capacidades cognoscitivas e intelectuales expresadas por sistemas informáticos o combinaciones de algoritmos cuyo propósito es la creación de máquinas que imiten la inteligencia humana para realizar tareas, y que pueden mejorar conforme recopilan información.​ A diferencia de la inteligencia sintética, la inteligencia artificial no tiene como finalidad reemplazar a los humanos, sino mejorar significativamente las capacidades y contribuciones de estos. Se hizo presente poco después de la Segunda Guerra Mundial con el desarrollo de la «prueba de Turing», mientras que la locución fue acuñada en 1956 por el informático John McCarthy en la Conferencia de Dartmouth.
+
+En la actualidad, la inteligencia artificial abarca una gran variedad de subcampos. Éstos van desde áreas de propósito general, aprendizaje y percepción, a otras más específicas como el reconocimiento de voz, el juego de ajedrez, la demostración de teoremas matemáticos, la escritura de poesía y el diagnóstico de enfermedades. La inteligencia artificial sintetiza y automatiza tareas que en principio son intelectuales y, por lo tanto, es potencialmente relevante para cualquier ámbito de diversas actividades intelectuales humanas. En este sentido, es un campo genuinamente universal.
+
+La arquitectura de las inteligencias artificiales y los procesos por los cuales aprenden, se mejoran y se implementan en algún área de interés varían según el enfoque de utilidad que se les quiera dar, pero de manera general, estos van desde la ejecución de sencillos algoritmos hasta la interconexión de complejas redes neuronales artificiales que intentan replicar los circuitos neuronales del cerebro humano y que aprenden mediante diferentes modelos de aprendizaje tales como el aprendizaje automático, el aprendizaje por refuerzo, el aprendizaje profundo o el aprendizaje supervisado.​
+
+Por otro lado, el desarrollo y aplicación de la inteligencia artificial en muchos aspectos de la vida cotidiana también ha propiciado la creación de nuevos campos de estudio como la roboética y la ética de las máquinas que abordan aspectos relacionados con la ética en la inteligencia artificial y que se encargan de analizar cómo los avances en este tipo de tecnologías impactarían en diversos ámbitos de la vida, así como el manejo responsable y ético que se les debería dar a los mismos, además de establecer cuál debería ser la manera correcta de proceder de las máquinas y las reglas que deberían cumplir.
+
+En cuanto a su clasificación, tradicionalmente se divide a la inteligencia artificial en inteligencia artificial débil, la cual es la única que existe en la actualidad y que se ocupa de realizar tareas específicas, e inteligencia artificial fuerte, que sería una IA que excediese las capacidades humanas. Algunos expertos creen que si alguna vez se alcanza este nivel, se podría dar lugar a la aparición de una singularidad tecnológica, es decir, una entidad tecnológica superior que se mejoraría a sí misma constantemente, volviéndose incontrolable para los humanos, dando pie a teorías como el basilisco de Roko.
+
+Algunas de las inteligencias artificiales más conocidas y utilizadas en la actualidad alrededor del mundo incluyen inteligencia artificial en el campo de la salud, asistentes virtuales como Alexa, el asistente de Google o Siri, traductores automáticos como el traductor de Google y DeepL, sistemas de recomendación como el de la plataforma digital de YouTube, motores de ajedrez y otros juegos como Stockfish y AlphaZero, chatbots como ChatGPT, creadores de arte de inteligencia artificial como Midjourney, Dall-e, Leonardo y Stable Diffusion, e incluso la conducción de vehículos autónomos como Tesla Autopilot.
+
+En 2019 la Comisión Mundial de Ética del Conocimiento Científico y la Tecnología (COMEST) de la UNESCO definió la inteligencia artificial como un campo que implica máquinas capaces de imitar determinadas funcionalidades de la inteligencia humana, incluidas características como la percepción, el aprendizaje, el razonamiento, la resolución de problemas, la interacción lingüística e incluso la producción de trabajos creativos.
+
+Coloquialmente, la locución «inteligencia artificial» se aplica cuando una máquina imita las funciones «cognitivas» que los humanos asocian como competencias humanas, por ejemplo: «percibir», «razonar», «aprender» y «resolver problemas».8​ Andreas Kaplan y Michael Haenlein definen la inteligencia artificial como «la capacidad de un sistema para interpretar correctamente datos externos, y así aprender y emplear esos conocimientos para lograr tareas y metas concretas a través de la adaptación flexible».​ A medida que las máquinas se vuelven cada vez más capaces, se elimina de la definición la tecnología que alguna vez se pensó que requería de inteligencia.
+
+Por ejemplo, el reconocimiento óptico de caracteres ya no se percibe como un ejemplo de la «inteligencia artificial» habiéndose convertido en una tecnología común.10​ Avances tecnológicos todavía clasificados como inteligencia artificial son los sistemas de conducción autónomos o los capaces de jugar ajedrez o Go.
+
+La inteligencia artificial es una nueva forma de resolver problemas dentro de los cuales se incluyen los sistemas expertos, el manejo y control de robots y los procesadores, que intenta integrar el conocimiento en tales sistemas, en otras palabras, un sistema inteligente capaz de escribir su propio programa. Un sistema experto definido como una estructura de programación capaz de almacenar y utilizar un conocimiento sobre un área determinada que se traduce en su capacidad de aprendizaje. 12​ De igual manera se puede considerar a la IA como la capacidad de las máquinas para usar algoritmos, aprender de los datos y utilizar lo aprendido en la toma de decisiones tal y como lo haría un ser humano.
+
+Según Takeyas (2007) la IA es una rama de las ciencias computacionales encargada de estudiar modelos de cómputo capaces de realizar actividades propias de los seres humanos con base en dos de sus características primordiales: el razonamiento y la conducta.
+
+En 1956, John McCarthy acuñó la expresión «inteligencia artificial», y la definió como «la ciencia e ingenio de hacer máquinas inteligentes, especialmente programas de cómputo inteligentes».
+
+También existen distintos tipos de percepciones y acciones, que pueden ser obtenidas y producidas, respectivamente, por sensores físicos y sensores mecánicos en máquinas, pulsos eléctricos u ópticos en computadoras, tanto como por entradas y salidas de bits de un software y su entorno software.
+
+Varios ejemplos se encuentran en el área de control de sistemas, planificación automática, la capacidad de responder a diagnósticos y a consultas de los consumidores, reconocimiento de escritura, reconocimiento del habla y reconocimiento de patrones. Los sistemas de IA actualmente son parte de la rutina en campos como economía, medicina, ingeniería, el transporte, las comunicaciones y la milicia, y se ha usado en gran variedad de programas informáticos, juegos de estrategia, como ajedrez de computador, y otros videojuegos.
+
+Antes de entrar en materia, y aunque ya sabemos, pues quedó claro en este post (viaje a los orígenes), que la inteligencia artificial es una ciencia, querría aclarar que, en el mundo del desarrollo del software existen diferentes formas de solucionar problemas. Una de ellas es, precisamente aplicando técnicas de inteligencia artificial, aunque no siempre es la más adecuada.
+
+También sabemos que la inteligencia artificial se basa en gran medida en probabilidades, por lo que siempre hay un margen de error, aunque sea muy pequeño. Esto nos conduce a recomendar que, si existe con algoritmia tradicional una forma de solucionar un problema concreto, es preferible no aplicar inteligencia artificial.
+Dicho esto, y aunque son muchas las áreas que ha acogido la inteligencia artificial a lo largo de su breve historia, como los sistemas expertos (basados en reglas), puede decirse que, el área de mayor relevancia y que mayores avances ha presentado en el pasado reciente, es el Machine Learning y si, se compone de diferentes herramientas (aprendizaje por refuerzo, aprendizaje profundo, aprendizaje automático supervisado o no supervisado y aprendizaje por refuerzo profundo) para resolver problemas de diferente tipo, aunque en ocasiones un tipo de problema pueda aceptar planteamientos de resolución diferentes (por ejemplo en sistemas de recomendación).
+
+El Machine Learning o aprendizaje automático
+Es una forma de resolver problemas (principalmente de clasificación o regresión, aunque hay varios tipos más). Empecemos con un pequeño ejemplo...
+
+Imaginemos que queremos averiguar el PVP aproximado de una vivienda (cualquiera) de una ciudad, a partir de, por ejemplo, su año de construcción, su superficie, número de habitaciones y "renta per cápita" del barrio en el que se ubica (podría haber escogido otros datos, pero se me han ocurridoestos sobre la marcha. Bien, ....
+
+En aprendizaje automático (al menos en el supervisado) hay una norma que no falla.... y la explica la siguiente imagen:
+
+
+Si, dentro del área del machine learning supervisado (la de mayor aplicación actualmente) a un algoritmo le proporcionas un montón de datos con la solución a casa caso (ejemplos) y con eso aprende, y genera un modelo que, cuando recibe esos datos, proporciona, a cambio, la solución.
+
+Es decir, que en nuestro ejemplo de precios de vivienda, si elegimos un algoritmo de aprendizaje automático y le orporcionamos varias decenas de miles de datos de vivienda (año + habitaciones + superficie + renta per cápita) y junto a cada conjunto de datos, el precio de esa vivienda, pues el algoritmo generaría un modelo, capaz de valorar viviendas, a partir de los datos proporcionados. Es como enseñar a través de ejemplos, pero con un fundamento matemático importantísimo (claro, la calidad/veracidad de los datos es imprescindible, si no le ponemos ejemplos de viviendas de 5 habitaciones, pues no sabría valorarlas de forma correcta). Esto es un ejemplo de regresión matemática, que se basa (simplificando el caso) a aquellas funciones que aprendíamos a dibujar en B.U.P. (secundaria, bachillerato...) con las que, a partir de dos puntos, dibujábamos rectas.
+
+Algoritmos para generar modelos de este tipo hay muchos, desde (uno de los más antiguos) el denominado "Naive Bayes", que se basa en probabilidad y en unas bases de partida algo ingenuas -de ahí su nombre- a otros que se basan en reglas, como los "árboles de decisión" u otros que calculan "distancias" entre los datos, como los "Support Vector Machines".
+
+Aprendizaje supervisado y no supervisado
+Existen dos grandes bloques, el supervisado, que es el explicado hasta el momento, que se centra en determinar valores (regresión, como el ejemplo del precio de la vivienda) o clasificación, en el que la solución, lejos de ser una cifra "aleatoria" es un elemento de un conjunto finito (como podría ser sano/enfermo, niño/adolescente/adulto/anciano, o cualquier otra que se nos pueda ocurrir).
+
+Por otro lado, existe el machine learning no supervisado, en el que al algoritmo no se le proporciona resultado, y él genera una salida identificando relaciones entre los datos proporcionados como entrada. Sus dos aplicaciones principales es la generación de grupos a parytir de datos y lo que en términos técnicos denominamos reducción de la dimensionalidad (no viene al caso).
+
+Existe otro tipo, el semi-supervisado, que no voy a entrar a describir, pero que también tiene algunas aplicaciones.
+
+
+Deep learning o aprendizaje profundo: Además de los algoritmos que generan modelos, se identificó otro enfoque, el de las redes neuronales, que tiene el mismo tipo de aplicación que el machine learning supervisado. Sin entrar en tecnicismos, su ventaja más importante es, que presenta un mejor rendimiento, y su desventaja principal que precisa un volumen de datos mucho mayor (y no siempre se dispone de tantos datos). A grandes rasgos, y sin entrar a considerar detalles técnicos como el número de capas de la red, las redes neuronales son las estructuras que conforman el deep learning.
+
+Es cierto que el origen de las redes neuronales es el perceptrón, creado por Frank Rosenblat, más o menos en los años 50 (1950 - 1960) a partir de los trabajos de Warren McCulloch y Walter Pitts
+
+A partir de esta estructura matemática, que, a partir de un número "n" de entradas genera una salida binaria (0 ó 1), se fue evolucionando, primero creando el perceptrón "multicapa" y luego las redes neuronales, cuyo funcionamiento y pilares matemáticos no describiremos en este texto, pero que son capaces de generar resultados más precisos y eficientes que los arrojados por modelos de machine learning "basico" (aunque precisan muchísimos más datos, como ya he comentado antes).
+
+Es un hecho curioso que, un perceptrón trata de emular el funcionamiento de una neurona desde una perspectiva matemática, y, por lo tanto, una red neuronal, trata de emular el funcionamiento de un sistema complejo de neuronas biológicas. Así pues el término "red neuronal" se refiere a la neurobiología, y, además, algunos de los conceptos principales, se basan en lo que conocemos acerca del funcionamiento del cerebro, pero, sin embargo, (tal y como afirma François Chollet en su libro Deep Learning with Python):
+
+"no hay ninguna evidencia científica de que el cerebro humano, implemente un funcionamiento igual al de los sistemas de aprendizaje en que se basa el deep learning moderno" 
+
+Capas, pesos, operaciones matemáticas.... no hay evidencias de ello en lo que conocemos del funcionamiento del cerebro. Es decir, que probablemente, a nivel inspiracional en sus inicios, se pretendiera seguir esta emulación, pero luego, el desarrollo del aprendizaje profundo, seguramente se desvió de estas bases inspiracionales iniciales. Y a todas luces, el cerebro humano, funciona de forma mucho más eficiente que cualquier red neuronal creada por el hombre (pero, más o menos, de ese tema ya hemos hablado en otros posts...¿verdad?).
+
+El Reinforcement Learning o aprendizaje por refuerzo: Hasta el momento hemos conocido cómo funciona el aprendizaje automático -supervisado o no-, que, de forma muy general aprende a partir de ejemplos para resolver problemas de clasificación o de regresión.
+
+Otra herramienta que quería presentarte es el aprendizaje por refuerzo, con la que, también se generan modelos, pero que aprenden a partir de recompensas (con quien doma fieras o enseña a su perro a traerle las zapatillas y un refresco).
+
+Aquí el enfoque cambia, hay que diseñar un "entorno" y un "agente", y definir las "acciones" que el agente puede realizar dentro del entorno. Pongamos por caso que el entorno es un laberinto, y el agente el ratón que tiene que ir de la entrada a la salida. Si el ratón alcanza la salida, tiene un pedacito de queso esperándole (recompensa). Así que, como el ratón quiere queso, se aprende el recorrido, y si le cambiamos un poco el laberinto, él seguirá buscando el queso hasta encontrarlo.
+
+No solo eso, además de la recompensa final, el queso en sí mismo, existe la "recompensa parcial" y es que conforme el ratón se acerca al queso, aunque no lo vea, percibe su olor con mayor intensidad por lo que sabe que va por buen camino y le ayuda a centrarse mejor en el resultado.
+
+Bueno, pues imagina ese escenario, pero diseñado mediante un programa informático, donde las recompensas son números y, mediante formulaciones matemáticas como la ecuación de Bellman o los procesos de decisión de Markov, todo funciona, y nuestro ratón (agente), creado con el objetivo de obtener la mayor recompensa posible, aprende a moverse por laberintos.
+
+Existen diferentes casos de entorno, con recompensas parciales o sin ellas, con dos o más acciones desde cada estado (movimientos), con espacios de acciones deterministas o estocásticos (la acción es concreta o puede que sea diferente a lo esperado...) pero, para no complicarnos mucho, quedémonos en el ejemplo del ratón y el laberinto...solo que sin perder de vista que el ejemplo podría complicarse mucho.
+
+La recompensa es, exactamente, el retorno que se obtiene de cada decisión, por lo que, nuestro sistema de inteligencia artificial, no es más que una función matemática que tiene como objetivo acumular la mayor recompensa posible.
+
+Pongamos algún ejemplo de aplicación de aprendizaje por refuerzo:
+
+Los vehículos autónomos suelen implementar esta tecnología, así, dependiendo del entorno, toman decisiones como girar (curva más cerrada o menos cerrada), frenar (frenada suave o de emergencia...) todo depende del entorno y del estado en que se encuentren (situación)
+Deep Blue, que ganó a Gary Kasparov al ajedrez, se basaba en este tipo de aprendizaje.
+Bien, si se tratase de un entorno con un número de estados finito y más o menos pequeño, incluso parece fácil, ¿no? vemos anticipadamente cada estado, tomamos nota y ya sabemos qué hacer.... es como si el ratón de nuestro ejemplo, se aprendiese el recorrido del laberinto de memoria.
+
+Pero... ¿y si el entorno es demasiado grande o tiene otros "elementos" (como peatones, lluvia que hace que el firme deslice o un gran jugador de ajedrez enfrente) en juego? Ahhhhh! Entonces la cosa cambia y se complica un poco
+
+En estos casos es en los que entra en juego el ....
+
+Deep Reinforcement Learning o aprendizaje por refuerzo profundo
+Una técnica que, en lugar de explorar el espacio de estados para determinar "rutas" óptimas, como eso llevaría demasiado tiempo o puede que sea una tarea interminable, utiliza redes neuronales para "estimar" posibilidades, no con datos exactos de recompensa (que sería lo adecuado en el caso de entornos pequeños) sino aproximando -regresión- el valor de la recompensa en estados hipotéticos.
+
+Pongamos por ejemplo, una situación concreta en mitad de una partida de ajedrez,... cada partida es distinta, y es muy difícil que nos encontremos más de una vez con, exactamente, el mismo escenario, y en ese momento hay que decidir, ... y además, no sabemos qué hará luego el oponente, por lo que, solamente podemos "estimar". Eso es loque hacen nuestras redes neuronales, hacer una estimación aproximada de la recompensa con cada movimiento posible y, a partir de esta estimación, determinar el movimiento más conveniente. Claro (y esto es ya para nota) se trata de determinar qué pasaría si yo hago un movimiento, es decir,... qué probabilidades hay de que ese movimiento me lleve a la victoria.
+
+
+Otro ejemplo es el de nuestro vehículo autónomo, imaginemos que va circulando y "observa" que se aproxima un perro, y además sus sensores traseros detectan un vehículo, y tiene que decidir qué maniobra hacer:
+
+acelerar antes de que el perro se cruce (controlando si hay vehículos delante o no para determinar el nivel de aceleración)
+frenar paulatinamente intentando que el vehículo de detrás no nos alcance
+desviarse, en la medida de lo posible
+bueno, eso son tres acciones (de forma resumida) y nuestra red neuronal estimaría cuál de ellas es más acertada.
+
+
+
+Concluyendo...
+Hemos hablado de, básicamente, de machine learning y de todas sus herramientas, pero en inteligencia artificial hay "otros mundos", otras áreas, no todo son modelos. Podríamos hablar de factorización matricial, de word-embeddings (vectores numéricos que describen palabras y contienen la información de contexto). de algoritmos genéticos y de otras técnicas, como la generación de reglas a partir de ocurrencias de datos. Pero insisto, lo más actual (la moda, mejor dicho) es el Machine Learning o aprendizaje automático.
+
+Seguramente esperabas que habláramos de visión artificial, lenguaje natural, chatbots, sistemas cognitivos, cómo spotify nos recomienda música o cosas por el estilo, pero.....  ¿sabes qué? todo eso son áreas de aplicación de lo que hemos visto hoy. Hoy hemos hablado de los pilares de la IA que permiten todo eso, por lo que, ya tiene sentido pensar en un nuevo post, uno en el que hablemos de aplicaciones de la inteligencia artificial en el mundo real.
